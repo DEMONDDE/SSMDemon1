@@ -1,100 +1,67 @@
 package cn.po;
 
-public class User {
-    private int  id;
-    private String name;
-    private String gender;
-    private int age;
-    private String address;
-    private String qq;
-    private String email;
-    private String username;
-    private String password;
+import java.io.Serializable;
 
-    public int getId() {
-        return id;
+/**
+ * 用户类
+ */
+public class User implements Serializable {
+
+    int user_id;
+    String user_code;
+    String user_name;
+    String user_password;
+    int user_state;
+
+    public int getUser_id() {
+        return user_id;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setUser_id(int user_id) {
+        this.user_id = user_id;
     }
 
-    public String getName() {
-        return name;
+    public String getUser_code() {
+        return user_code;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setUser_code(String user_code) {
+        this.user_code = user_code;
     }
 
-    public String getGender() {
-        return gender;
+    public String getUser_name() {
+        return user_name;
     }
 
-    public void setGender(String gender) {
-        this.gender = gender;
+    public void setUser_name(String user_name) {
+        this.user_name = user_name;
     }
 
-    public int getAge() {
-        return age;
+    public String getUser_password() {
+        return user_password;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setUser_password(String user_password) {
+        this.user_password = user_password;
     }
 
-    public String getAddress() {
-        return address;
+    public int getUser_state() {
+        return user_state;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public String getQq() {
-        return qq;
-    }
-
-    public void setQq(String qq) {
-        this.qq = qq;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
+    public void setUser_state(int user_state) {
+        this.user_state = user_state;
     }
 
     @Override
     public String toString() {
         return "User{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", gender='" + gender + '\'' +
-                ", age=" + age +
-                ", address='" + address + '\'' +
-                ", qq='" + qq + '\'' +
-                ", email='" + email + '\'' +
-                ", username='" + username + '\'' +
-                ", password='" + password + '\'' +
+                "user_id=" + user_id +
+                ", user_code='" + user_code + '\'' +
+                ", user_name='" + user_name + '\'' +
+                ", user_password='" + user_password + '\'' +
+                ", user_state='" + user_state + '\'' +
                 '}';
     }
+
 }
