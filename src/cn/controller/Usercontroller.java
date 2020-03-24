@@ -20,14 +20,29 @@ public class Usercontroller {
     private UserService userService;
 
     //用户登陆
-    @RequestMapping(value = "/login.action", method = RequestMethod.POST)
+    @RequestMapping(value = "/login.action")
     public String login(String usercode, String password, Model model, HttpSession session){
+        System.out.println(usercode+"   "+password);
         User user = userService.findUser(usercode, password);
         if(user != null){
             session.setAttribute("USER_SESSION", user);
             return "customer";
         }
         model.addAttribute("msg", "账号或密码错误");
+        return "login";
+    }
+
+    //退出登陆
+    @RequestMapping("/logout.action")
+    public String logout(HttpSession session){
+        session.invalidate();
+        return "redirect:gologin.action";
+    }
+
+
+    //跳转到登陆界面
+    @RequestMapping("/gologin.action")
+    public String goLogin(){
         return "login";
     }
 }

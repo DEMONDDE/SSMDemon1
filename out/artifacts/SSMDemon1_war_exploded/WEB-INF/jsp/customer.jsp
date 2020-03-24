@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <%@ page trimDirectiveWhitespaces="true"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@ taglib prefix="itheima" uri="http://itheima.com/common/"%>
+<%--<%@ taglib prefix="itheima" uri="http://itheima.com/common/"%>--%>
 <%
 	String path = request.getContextPath();
 	String basePath = request.getScheme() + "://" + request.getServerName() 
@@ -432,7 +432,7 @@
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 					<span aria-hidden="true">&times;</span>
 				</button>
-				<h4 class="modal-title" id="myModalLabel">修改客户信息</h4>
+				<h4 class="modal-title" id="myModalLabel1">修改客户信息</h4>
 			</div>
 			<div class="modal-body">
 				<form class="form-horizontal" id="edit_customer_form">

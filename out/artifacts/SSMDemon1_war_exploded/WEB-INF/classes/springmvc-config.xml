@@ -25,4 +25,12 @@
     <mvc:resources mapping="/css/" location="/css/**" />
     <mvc:resources mapping="/fonts/" location="/fonts/**" />
     <mvc:resources mapping="/images/" location="/images/**" />
+
+    <!--配置拦截器-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="cn.interceptor.LoginInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
 </beans>

@@ -7,12 +7,5 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
-<%--<jsp:forward page="/WEB-INF/jsp/login.jsp"/>--%>
-<html>
-<head>
+<jsp:forward page="/WEB-INF/jsp/login.jsp"/>
 
-</head>
-<body>
-    <a href="${pageContext.request.contextPath}/WEB-INF/jsp/login.jsp">ddddd</a>
-</body>
-</html>
