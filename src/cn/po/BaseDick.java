@@ -1,5 +1,7 @@
 package cn.po;
 
+import com.alibaba.druid.sql.visitor.functions.Char;
+
 import java.io.Serializable;
 
 public class BaseDick implements Serializable {
@@ -9,7 +11,7 @@ public class BaseDick implements Serializable {
     private String dict_item_name;
     private String dict_item_code;
     private int dict_sort;
-    private String dict_enable;
+    private char dict_enable;
     private String dict_memo;
 
     public String getDict_id() {
@@ -60,11 +62,11 @@ public class BaseDick implements Serializable {
         this.dict_sort = dict_sort;
     }
 
-    public String getDict_enable() {
+    public char getDict_enable() {
         return dict_enable;
     }
 
-    public void setDict_enable(String dict_enable) {
+    public void setDict_enable(char dict_enable) {
         this.dict_enable = dict_enable;
     }
 
