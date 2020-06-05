@@ -1,7 +1,8 @@
 package cn.po;
 
-import javax.xml.crypto.Data;
+
 import java.io.Serializable;
+import java.util.Date;
 
 /**
  * 客户类
@@ -21,7 +22,7 @@ public class Customer implements Serializable {
     private String cust_mobile;
     private String cust_zipcode;
     private String cust_address;
-    private Data cust_createtime;
+    private Date cust_createtime;
     private int start;//起始行数
     private int rows;//所取行数
 
@@ -121,11 +122,11 @@ public class Customer implements Serializable {
         this.cust_address = cust_address;
     }
 
-    public Data getCust_createtime() {
+    public Date getCust_createtime() {
         return cust_createtime;
     }
 
-    public void setCust_createtime(Data cust_createtime) {
+    public void setCust_createtime(Date cust_createtime) {
         this.cust_createtime = cust_createtime;
     }
 

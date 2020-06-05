@@ -7,49 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6b06af-8c8f-4bb9-b570-ea3aef3770ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/BaseDickDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/BaseDickDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/BaseDick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/BaseDickService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/CustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/BaseDickServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/utils/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/lib/commons-lang3-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/lib/commons-lang3-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/BaseDickDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/BaseDickDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/BaseDick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/BaseDickService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/CustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/BaseDickServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/utils/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dao/BaseDickDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dao/BaseDickDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/service/BaseDickService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/service/Impl/BaseDickServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/service/Impl/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/utils/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/lib/commons-lang3-3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSMDemon1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/dao/CustomerDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dao/CustomerDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/po/BaseDick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/po/BaseDick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/META-INF/SSMDemon1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dao/CustomerDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/po/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/po/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/service/Impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/service/Impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +52,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\JavaWork\SSMDemon1\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -86,7 +62,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/Program Files/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -96,7 +72,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -104,7 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -197,29 +172,6 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.25887978" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -243,7 +195,39 @@
       <workItem from="1585043761587" duration="680000" />
       <workItem from="1585099907266" duration="3367000" />
       <workItem from="1585103879306" duration="1920000" />
-      <workItem from="1585105823579" duration="4352000" />
+      <workItem from="1585105823579" duration="4424000" />
+      <workItem from="1585183310385" duration="4529000" />
+      <workItem from="1585980945578" duration="675000" />
+      <workItem from="1585982922217" duration="24000" />
+      <workItem from="1585984628036" duration="13000" />
+      <workItem from="1586653306839" duration="166000" />
+      <workItem from="1587107840211" duration="23000" />
+      <workItem from="1587114013961" duration="256000" />
+      <workItem from="1587194828785" duration="1202000" />
+      <workItem from="1587198130428" duration="36000" />
+      <workItem from="1587198173469" duration="10000" />
+      <workItem from="1587199779925" duration="284000" />
+      <workItem from="1587203157855" duration="368000" />
+      <workItem from="1587624384017" duration="602000" />
+      <workItem from="1587710098081" duration="1078000" />
+      <workItem from="1587779891159" duration="150000" />
+      <workItem from="1587781458441" duration="600000" />
+      <workItem from="1587799625657" duration="13000" />
+      <workItem from="1588065217108" duration="38000" />
+      <workItem from="1588065924589" duration="14000" />
+      <workItem from="1588066969024" duration="35000" />
+      <workItem from="1588121634856" duration="37000" />
+      <workItem from="1588575626468" duration="7000" />
+      <workItem from="1589017059172" duration="771000" />
+      <workItem from="1589023844976" duration="92000" />
+      <workItem from="1589622263504" duration="554000" />
+      <workItem from="1589706717802" duration="568000" />
+      <workItem from="1589709158343" duration="1150000" />
+      <workItem from="1589710430695" duration="107000" />
+      <workItem from="1590483482141" duration="618000" />
+      <workItem from="1590841726402" duration="246000" />
+      <workItem from="1590842043211" duration="653000" />
+      <workItem from="1590843086309" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="SSM框架整合配置文件已通过测试">
       <created>1584697067400</created>
@@ -273,18 +257,34 @@
       <option name="project" value="LOCAL" />
       <updated>1585043834945</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="查询功能已完成，暂无明显Bug">
+      <created>1585110221286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585110221286</updated>
+    </task>
+    <task id="LOCAL-00006" summary="所有功能已完成">
+      <created>1585187724780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585187724780</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SSM框架整合配置文件已通过测试" />
     <MESSAGE value="项目准备已完成" />
     <MESSAGE value="登陆已完成" />
     <MESSAGE value="数据库数据已插入完成，接下来进行查询操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据库数据已插入完成，接下来进行查询操作" />
+    <MESSAGE value="查询功能已完成，暂无明显Bug" />
+    <MESSAGE value="所有功能已完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="所有功能已完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1585101503593">
@@ -299,10 +299,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584689409512" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1585102502452">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1585187285983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585102502452" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585187285983" />
     <state x="284" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585107286959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -311,62 +311,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585105533464" />
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1585043832683">
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1585187723203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585043832683" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1584859616850">
+    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585187723203" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587624986347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584859616850" />
-    <state width="1117" height="206" key="GridCell.Tab.0.bottom" timestamp="1585109921118">
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587624986347" />
+    <state width="1084" height="348" key="GridCell.Tab.0.bottom" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585109921118" />
-    <state width="1117" height="206" key="GridCell.Tab.0.center" timestamp="1585109921118">
+    <state width="1084" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.0.center" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585109921118" />
-    <state width="1117" height="206" key="GridCell.Tab.0.left" timestamp="1585109921118">
+    <state width="1084" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.0.left" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585109921118" />
-    <state width="1117" height="206" key="GridCell.Tab.0.right" timestamp="1585109921118">
+    <state width="1084" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.0.right" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585109921118" />
-    <state width="1117" height="206" key="GridCell.Tab.1.bottom" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.1.bottom" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.1.center" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.1.center" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.1.left" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.1.left" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.1.right" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.1.right" timestamp="1590842697259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.2.bottom" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590842697259" />
+    <state width="1084" height="348" key="GridCell.Tab.2.bottom" timestamp="1590842697260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.2.center" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590842697260" />
+    <state width="1084" height="348" key="GridCell.Tab.2.center" timestamp="1590842697260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.2.left" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590842697260" />
+    <state width="1084" height="348" key="GridCell.Tab.2.left" timestamp="1590842697260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
-    <state width="1117" height="206" key="GridCell.Tab.2.right" timestamp="1585109920966">
+    <state width="1084" height="348" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590842697260" />
+    <state width="1084" height="348" key="GridCell.Tab.2.right" timestamp="1590842697260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1117" height="206" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585109920966" />
+    <state width="1084" height="348" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590842697260" />
     <state width="1117" height="206" key="GridCell.Tab.3.bottom" timestamp="1585108965523">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -399,18 +399,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1117" height="491" key="GridCell.Tab.5.right/0.0.1536.824@0.0.1536.824" timestamp="1585105653458" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1585107516879">
+    <state x="349" y="146" key="IDE.errors.dialog" timestamp="1587114083004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585107516879" />
+    <state x="349" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587114083004" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587624747934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587624747934" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1584689809273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1584689809273" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585043840580">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585187728138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585043840580" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585187728138" />
+    <state x="178" y="0" key="new project wizard" timestamp="1590842690699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590842690699" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1584956139734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

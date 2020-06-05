@@ -14,6 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 
+
 @Service("customerService")
 @Transactional
 public class CustomerServiceImpl implements CustomerService {
@@ -45,5 +46,25 @@ public class CustomerServiceImpl implements CustomerService {
         result.setSize(rows);
         result.setTotal(count);
         return result;
+    }
+
+    @Override
+    public int createCustomer(Customer customer) {
+        return customerDao.createCustomer(customer);
+    }
+
+    @Override
+    public Customer getCustomerById(int id) {
+        return customerDao.getCustomerById( id);
+    }
+
+    @Override
+    public int updateCustomer(Customer customer) {
+        return customerDao.updateCustomer(customer);
+    }
+
+    @Override
+    public int customerDelete(int id) {
+        return customerDao.customerDelete(id);
     }
 }
