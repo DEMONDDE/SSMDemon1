@@ -107,16 +107,11 @@ public class CustomerController {
     public void test1(){
         int aaa;
     }
-    /**
-     * 测试代码
-     */
-    public void test2(){
 
-    }
     /**
      * 测试代码
      */
     public void test3(){
-
+        int bbb;
     }
 }
