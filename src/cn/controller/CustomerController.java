@@ -112,6 +112,6 @@ public class CustomerController {
      * 测试代码
      */
     public void test3(){
-
+        int bbb;
     }
 }
