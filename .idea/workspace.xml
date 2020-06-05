@@ -6,34 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6b06af-8c8f-4bb9-b570-ea3aef3770ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSMDemon1_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/dao/CustomerDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/po/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/WEB-INF/classes/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SSMDemon1_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/META-INF/SSMDemon1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/dao/CustomerDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/po/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/cn/service/Impl/CustomerServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSMDemon1/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSMDemon1/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/dao/CustomerDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/po/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/po/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/service/Impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/service/Impl/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="0e6b06af-8c8f-4bb9-b570-ea3aef3770ff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -228,6 +206,7 @@
       <workItem from="1590841726402" duration="246000" />
       <workItem from="1590842043211" duration="653000" />
       <workItem from="1590843086309" duration="13000" />
+      <workItem from="1591357967546" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="SSM框架整合配置文件已通过测试">
       <created>1584697067400</created>
@@ -271,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585187724780</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="测试用">
+      <created>1591358078452</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358078452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试用">
+      <created>1591358206253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358206253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="测试用">
+      <created>1591358248215</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358248215</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +284,8 @@
     <MESSAGE value="数据库数据已插入完成，接下来进行查询操作" />
     <MESSAGE value="查询功能已完成，暂无明显Bug" />
     <MESSAGE value="所有功能已完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="所有功能已完成" />
+    <MESSAGE value="测试用" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1585101503593">
@@ -311,10 +312,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585105533464" />
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1585187723203">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1591358247055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585187723203" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591358247055" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587624986347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -411,10 +412,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1584689809273" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585187728138">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591358297863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585187728138" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591358297863" />
+    <state x="455" y="199" key="git4idea.merge.GitPullDialog" timestamp="1591357986637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1591357986637" />
     <state x="178" y="0" key="new project wizard" timestamp="1590842690699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
