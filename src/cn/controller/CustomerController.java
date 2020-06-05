@@ -107,12 +107,7 @@ public class CustomerController {
     public void test1(){
 
     }
-    /**
-     * 测试代码
-     */
-    public void test2(){
 
-    }
     /**
      * 测试代码
      */
